@@ -1,2 +1,2 @@
-# Projects
-CoffeSales PowerBi Project. 
+# PowerBi
+CoffeSales PowerBi Dashboard. 
